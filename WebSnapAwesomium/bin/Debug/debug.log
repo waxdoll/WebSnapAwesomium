@@ -1,0 +1,162 @@
+[0725/172533:INFO:(0)] WebCore is now online.
+[0725/172533:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/172950:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/173045:INFO:(0)] WebCore is now online.
+[0725/173045:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/173438:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/173947:INFO:(0)] WebCore is now online.
+[0725/173947:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/174109:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/180727:INFO:(0)] WebCore is now online.
+[0725/180727:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/181113:INFO:(0)] WebCore is now online.
+[0725/181113:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/181214:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/182028:INFO:(0)] WebCore is now online.
+[0725/182028:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/182140:INFO:(0)] WebCore is now online.
+[0725/182140:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/182317:INFO:(0)] WebCore is now online.
+[0725/182317:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/182513:INFO:(0)] WebCore is now online.
+[0725/182513:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/182550:INFO:(0)] WebCore is now online.
+[0725/182550:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/190220:INFO:(0)] WebCore is now online.
+[0725/190220:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/190643:INFO:(0)] WebCore is now online.
+[0725/190643:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/191144:INFO:(0)] WebCore is now online.
+[0725/191144:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/191507:INFO:(0)] WebCore is now online.
+[0725/191507:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/193437:INFO:(0)] WebCore is now online.
+[0725/193437:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/205450:INFO:(0)] WebCore is now online.
+[0725/205450:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/210413:INFO:(0)] WebCore is now online.
+[0725/210413:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/210520:INFO:(0)] WebCore is now online.
+[0725/210520:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/210523:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/210538:INFO:(0)] WebCore is now online.
+[0725/210538:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/210858:INFO:(0)] WebCore is now online.
+[0725/210858:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/210900:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/210918:INFO:(0)] WebCore is now online.
+[0725/210918:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/210952:INFO:(0)] WebCore is now online.
+[0725/210952:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/211212:INFO:(0)] WebCore is now online.
+[0725/211212:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/211305:INFO:(0)] WebCore is now online.
+[0725/211305:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/212545:INFO:(0)] WebCore is now online.
+[0725/212545:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/212633:INFO:(0)] WebCore is now online.
+[0725/212633:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/212835:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/212900:INFO:(0)] WebCore is now online.
+[0725/212900:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/213010:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/213024:INFO:(0)] WebCore is now online.
+[0725/213024:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/213607:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/213722:INFO:(0)] WebCore is now online.
+[0725/213722:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/214459:INFO:(0)] WebCore is now online.
+[0725/214459:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/214705:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/215319:INFO:(0)] WebCore is now online.
+[0725/215319:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/215324:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/215332:INFO:(0)] WebCore is now online.
+[0725/215332:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/220452:INFO:(0)] WebCore is now online.
+[0725/220452:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/223510:INFO:(0)] WebCore is now online.
+[0725/223510:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/223623:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/224348:INFO:(0)] WebCore is now online.
+[0725/224348:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/224350:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/224922:INFO:(0)] WebCore is now online.
+[0725/224922:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/225345:INFO:(0)] WebCore is now online.
+[0725/225345:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/225710:INFO:(0)] WebCore is now online.
+[0725/225710:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/230514:INFO:(0)] WebCore is now online.
+[0725/230514:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/232214:INFO:(0)] WebCore is now online.
+[0725/232214:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/232841:INFO:(0)] WebCore is now online.
+[0725/232841:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/232928:INFO:(0)] WebCore is now online.
+[0725/232928:INFO:(0)] Running Awesomium 1.7.5.1
+[0725/233236:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0725/233517:INFO:(0)] WebCore is now online.
+[0725/233517:INFO:(0)] Running Awesomium 1.7.5.1
+[0726/103733:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0726/104603:INFO:(0)] WebCore is now online.
+[0726/104603:INFO:(0)] Running Awesomium 1.7.5.1
+[0726/104741:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0726/105008:INFO:(0)] WebCore is now online.
+[0726/105008:INFO:(0)] Running Awesomium 1.7.5.1
+[0726/105345:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: 调用方法时发生错误。  目标线程不再存在。
+   在 System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   在 Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   在 Awesomium.Core.WebCore.ioXQMTP1sf()
+[0726/105547:INFO:(0)] WebCore is now online.
+[0726/105547:INFO:(0)] Running Awesomium 1.7.5.1
+[0726/110310:INFO:(0)] WebCore is now online.
+[0726/110310:INFO:(0)] Running Awesomium 1.7.5.1

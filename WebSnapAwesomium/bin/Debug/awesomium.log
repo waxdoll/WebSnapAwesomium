@@ -1,0 +1,9 @@
+[0727/231253:INFO:(0)] WebCore is now online.
+[0727/231253:INFO:(0)] Running Awesomium 1.7.5.1
+[0727/231315:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0727/231315:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
+[0727/231343:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0727/231423:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0727/231500:INFO:Awesomium.NET(0)] Destroyed View: 101
+[0727/231511:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0727/231528:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
