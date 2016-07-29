@@ -1,9 +1,13 @@
-[0727/231253:INFO:(0)] WebCore is now online.
-[0727/231253:INFO:(0)] Running Awesomium 1.7.5.1
-[0727/231315:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
-[0727/231315:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
-[0727/231343:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
-[0727/231423:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
-[0727/231500:INFO:Awesomium.NET(0)] Destroyed View: 101
-[0727/231511:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
-[0727/231528:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
+[0729/215714:INFO:(0)] WebCore is now online.
+[0729/215714:INFO:(0)] Running Awesomium 1.7.5.1
+[0729/215749:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0729/215749:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
+[0729/215750:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
+[0729/215750:INFO:Awesomium.NET(0)] Registering Javascript Callbacks
+[0729/215803:INFO:Awesomium.NET(0)] Destroyed View: 101
+[0729/215805:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0729/215806:INFO:Awesomium.NET(0)] Destroyed View: 201
+[0729/215815:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0729/215842:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0729/215926:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0729/220009:INFO:Awesomium.NET(0)] Destroyed View: 301

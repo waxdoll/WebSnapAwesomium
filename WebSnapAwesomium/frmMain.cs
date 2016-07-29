@@ -138,7 +138,7 @@ namespace WebSnapAwesomium
             });
 
             // 使用自定义 CSS 去掉渲染时页面可能出现的滚动条
-            WebCore.CreateWebSession(new WebPreferences() { CustomCSS = "::-webkit-scrollbar { visibility: hidden; }" });
+            WebCore.CreateWebSession(new WebPreferences() { CustomCSS = SCROLLBAR_CSS });
 
             // 检查 WebCore 是否已经启动或者已经被关闭
             if (WebCore.UpdateState != WebCoreUpdateState.NotUpdating)
@@ -163,7 +163,7 @@ namespace WebSnapAwesomium
 
         }
 
-
+        
         /// <summary>
         /// 导航到指定 URL 以截图，在 Awesomium 线程上运行
         /// </summary>
@@ -204,10 +204,14 @@ namespace WebSnapAwesomium
             {
                 destroyedCount++;
 
+                // 已销毁 WebView 数量和 URL 数量相同，处理完毕
                 if (destroyedCount == urlCount)
                 {
+                    // 恢复窗体上控件的可用状态
                     setControlAvailability(true);
-                    MessageBox.Show("Complete in " + (DateTime.Now - beginTime).Seconds.ToString() + " seconds!");
+
+                    // 带消耗时间（单位：秒）的完成提示
+                    MessageBox.Show("Complete in " + Math.Round((DateTime.Now - beginTime).TotalSeconds, 2).ToString() + " seconds!");
                 }
             }; 
         }
@@ -388,6 +392,7 @@ namespace WebSnapAwesomium
 
         private void btnCapture_Click(object sender, EventArgs e)
         {
+
             try
             {
                 baseWidth = Convert.ToInt32(this.cmbBaseWidth.SelectedItem);
@@ -396,7 +401,7 @@ namespace WebSnapAwesomium
             }
             catch
             {
-                MessageBox.Show("请正确或者填写相关项目！");
+                MessageBox.Show("Please correct your input！");
                 return;
             }
             
