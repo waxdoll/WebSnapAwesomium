@@ -2,7 +2,7 @@
 
 Web Page Snapshots with Awesomium
 
-![screenshot](http://zzplol.b0.upaiyun.com/blog/posts1607/AwesomiumWebSnap.png "screenshot")
+![screenshot](https://cumtzzp.github.io/images/snap_websnapawesomium.png "screenshot")
 
 Controls in the form:
 
